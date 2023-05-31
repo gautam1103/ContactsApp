@@ -15,14 +15,14 @@ Check out the live demo of this application hosted on [Netlify](https://gautam-c
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:</br>
     git clone https://github.com/your-username/your-repo.git
 2. Navigate to the project directory:</br>
-    cd your-repo</br>
+    ##cd your-repo
 3. Install the dependencies:</br>
-    npm install</br>
+    ##npm install
 4.Start the development server:</br>
-  npm start</br>
+  ##npm start
 5.Follow the instructions printed in the console to run the app on a simulator/emulator or on a physical device.</br>
 
 <h1>Dependencies</h1>
