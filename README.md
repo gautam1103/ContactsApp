@@ -21,9 +21,6 @@ Check out the live demo of this application hosted on [Netlify](https://gautam-c
     cd your-repo
 3. Install the dependencies:</br>
   npm install</br>
-4.Start the development server:</br>
-  npm start</br>
-5.Follow the instructions printed in the console to run the app on a simulator/emulator or on a physical device.</br>
 
 <h1>Dependencies</h1>
 i. React Native</br>
