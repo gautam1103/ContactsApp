@@ -17,19 +17,19 @@ Check out the live demo of this application hosted on [Netlify](https://gautam-c
 
 1. Clone the repository:
     git clone https://github.com/your-username/your-repo.git
-2. Navigate to the project directory:
-    cd your-repo
-3. Install the dependencies:
-    npm install
-4.Start the development server:
-  npm start
-5.Follow the instructions printed in the console to run the app on a simulator/emulator or on a physical device.
+2. Navigate to the project directory:</br>
+    cd your-repo</br>
+3. Install the dependencies:</br>
+    npm install</br>
+4.Start the development server:</br>
+  npm start</br>
+5.Follow the instructions printed in the console to run the app on a simulator/emulator or on a physical device.</br>
 
 <h1>Dependencies</h1>
-i. React Native
-ii. React
+i. React Native</br>
+ii. React</br>
 <h1>Usage</h1>
-1.Open the app on your device or simulator/emulator.
-2.Enter a search query in the search input field to filter the contacts.
-3.Tap on a contact to view its details in a modal.
-4.Tap the "Close" button to close the modal and return to the contact list.
+1.Open the app on your device or simulator/emulator.</br>
+2.Enter a search query in the search input field to filter the contacts.</br>
+3.Tap on a contact to view its details in a modal.</br>
+4.Tap the "Close" button to close the modal and return to the contact list.</br>
